@@ -1,0 +1,31 @@
+h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+  text-align: center;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+h1, h2, h3, p {
+  font-family: Verdana;
+}
+html {
+  background-color: black;
+  text-align: center;
+}
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+.info {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
